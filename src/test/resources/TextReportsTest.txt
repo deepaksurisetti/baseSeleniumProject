@@ -1,0 +1,2 @@
+| Scenario | Environment | Browser | Status | Failure Message |
+|Search cucumber studio|TEST|CHROME| Passed |
